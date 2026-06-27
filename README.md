@@ -2,6 +2,11 @@
 本项目是基于沁恒CH339W和DAP-Link的多功能USB拓展坞模块，包含6个USB2.0、读卡器、百兆网口、JATG、DAP-Link、usb转串口、usb转i2c、usb转spi和一键复位功能。
 做这个拓展坞主要是市面上的要么不全要么太贵。。。。索性就根据自己需求做了一个，适合日常的嵌入式或硬件开发。
 
+<img width="1706" height="1279" alt="微信图片_20260609213800_9_27" src="https://github.com/user-attachments/assets/a42832f1-a8bd-4dee-a017-619c58ea65c8" />
+<img width="1706" height="1279" alt="微信图片_20260609213803_12_27" src="https://github.com/user-attachments/assets/9cf3517b-0813-4133-b1af-fbd52dbc8915" />
+<img width="1279" height="1706" alt="微信图片_20260609213803_13_27" src="https://github.com/user-attachments/assets/f605566e-0516-48f0-80a0-b3ee614c7534" />
+<img width="1279" height="1706" alt="微信图片_20260609213802_11_27" src="https://github.com/user-attachments/assets/0a92a7d3-7bf6-4542-a8a3-eb0fe2c95165" />
+
 # 项目功能
 - USB2.0
 芯片最多能拓展出7个，我这里引出6个足够日常使用了，另外一个用来给DAP-Link使用，支持USB2.0 高速480Mbps、全速12Mbps和低速 1.5Mbps。
